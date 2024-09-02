@@ -66,6 +66,9 @@ python api.py
    - **Method**: GET
    - **Description**: Retrieves URLs where the image appears.
    - **Parameters**: `image_id` (string)
+  
+   - ![Screenshot 2024-09-03 011213](https://github.com/user-attachments/assets/eab2c32b-b9ad-4010-8c55-5350d5b8d388)
+
 
 
 ```bash
