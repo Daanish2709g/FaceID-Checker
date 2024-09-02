@@ -1,0 +1,5 @@
+selenium==4.20.0
+Socialbot==0.0.5
+webdriver-manager==4.0.1
+Flask==3.0.3
+requests==2.31.0
