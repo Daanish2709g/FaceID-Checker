@@ -10,6 +10,7 @@ results_file = 'results.csv'
 uploads_dir = "uploads"
 os.makedirs(uploads_dir, exist_ok=True)
 
+
 # Ensure the results CSV file exists
 if not os.path.exists(results_file):
     with open(results_file, mode='w', newline='') as file:
